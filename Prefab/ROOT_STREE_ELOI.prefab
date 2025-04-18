@@ -199,7 +199,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7941551647242471972, guid: d35cbf4370b3d294d9f5381f7e996347, type: 3}
       propertyPath: m_VersionIndex
-      value: 158
+      value: 161
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -380,7 +380,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7941551647242471972, guid: d35cbf4370b3d294d9f5381f7e996347, type: 3}
       propertyPath: m_VersionIndex
-      value: 158
+      value: 161
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
